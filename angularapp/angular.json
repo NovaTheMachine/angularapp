@@ -27,7 +27,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
+            "styles": ["/home/dev/Documents/Code/angularapp/angularapp/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.sass"
             ],
             "scripts": []
