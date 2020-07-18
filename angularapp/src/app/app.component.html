@@ -3,10 +3,12 @@
     <div class="col-xs-12">
       <h2>Mes appareils</h2>
       <ul class="list-group">
-        <app-appareil>111</app-appareil>
+        <app-appareil></app-appareil>
         <app-appareil></app-appareil>
         <app-appareil></app-appareil>
       </ul>
+      <button class="btn btn-success" [disabled]="!isAuth">Tout Allume</button>
+      
     </div>
   </div>
 </div>
